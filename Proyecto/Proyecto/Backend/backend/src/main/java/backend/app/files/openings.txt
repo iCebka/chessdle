@@ -1,0 +1,10 @@
+A20,Keres Defense,Paul Keres,c4 e5 Nc3 d6 g3 Be6 Bg2 Nc6,alternative to the Chigorin Defense that attacks in the center instead of the queenside
+A43,Old Benoni,Aaron Reinganumd4 c5 d5 d6,a fighting way for Black to respond to White's 1 d4
+B01,Lasker Variation,Emanuel Lasker,Fyodor Dus-Chotimirsky,e4 Nf6 e5 Nd5 c4 Nb6 c5,extremely rare and occurs in less than 1 in 10,000 games
+B09,Dragon Formation,e4 d6 d4 Nf6 Nc3 g6 f4 Bg7 Nf3 c5,is one of the main lines of the Sicilian Defence
+C20,MacLeod Attack,Nicholas MacLeod,e4 e5 c3,played 17 times in the New York 1889 tournament by the Canadian master Nicholas MacLeod[1] but has otherwise arisen rarely in tournament play
+C67,Pillsbury Variation,Ruy Lopez,e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Be7 Qe2 Nd6 Bxc6+ bxc6 dxe5 Nb7 b3,a specific sequence of successive moves in a turn-based game, often used to specify a hypothetical future state of a game that is being played
+D83,Reshevsky Gambit,Samuel Herman Reshevsky,d4 Nf6 c4 g6 Nc3 d5 Bf4 Bg7 e3 O-O Rc1 c5 dxc5 Qa5,offers a balanced game with chances for both sides to create imbalances and fight for the initiative
+D85,Kramnik's Line,Vladimir Kramnik,d4 Nf6 c4 g6 Nc3 d5 cxd5 Nxd5 e4 Nxc3 bxc3 Bg7 Nf3 c5 h3, Sveshnikov Variation of the Sicilian Defense involves White playing an early Bf4, putting pressure on Black's e6 pawn and aiming for dynamic play around Black's b5 pawn
+E67,Delayed Fianchetto,Fianchetto,d4 Nf6 c4 g6 Nc3 Bg7 Nf3 d6 g3,delay direct occupation of the centre with the plan of undermining and destroying the opponent's occupied centre
+E70,Krammer Variation, George Kramer,d4 Nf6 c4 g6 Nc3 Bg7 Nf3 d6 Nge2,line in the Najdorf Variation of the Sicilian Defense where Black plays an early ...e5, aiming to challenge White's central pawn structure.

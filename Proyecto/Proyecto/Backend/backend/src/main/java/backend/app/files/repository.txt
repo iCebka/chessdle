@@ -1,0 +1,4 @@
+B00,KINGS,Unknown,e4,Fast center attack with bishop and queen's diagonal opening
+A40,QUEEN,Unknown,d4,Fast center attack with left bishop's diagonal opening
+A21,KERES,Paul Keres,c4 e5 Nc3 d6 g3 c6,Alternative to the Chigorin Defense that attacks in the center instead of the queenside
+A21,ANGLO,Elias Stein,c4 e5 Nc3 f5, A variation of the English opening, it begins with an open pawn position to place the pieces near the center.
